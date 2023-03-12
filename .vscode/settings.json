@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+"typescript.enablePromptUseWorkspaceTsdk": true,
+"html.format.wrapAttributes": "auto",
+"typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+"prettier.singleAttributePerLine": true,
+"prettier.bracketSameLine": false,
+"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+"html.format.wrapAttributesIndentSize": null
+}
